@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Juan Meléndez 👋</h1>
-<h3 align="center">Welcome to my GitHub</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Biomedical+Engineer+%F0%9F%A9%BA;Specialist+in+Artificial+Intelligence+%F0%9F%8E%93;Explainable+AI+Research+Lead+%F0%9F%94%8D;Embedded+Systems+%2B+Machine+Learning+%E2%9A%99%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Building AI that clinicians can trust — and the hardware to make it real.</i>
 </p>
 
 <p align="center">
@@ -39,6 +41,7 @@ class JuanMelendez:
 
 ## 🗺️ What I Work On
 
+<!-- One node, many paths -->
 ```mermaid
 flowchart LR
     A["🧠 Juan Meléndez<br/>Biomedical Eng. · AI Specialist"] --> B["🔬 Research<br/>Explainable AI"]
@@ -76,14 +79,14 @@ I **lead a research group on Explainable Artificial Intelligence**, focused on m
 
 ---
 
-## 👩‍💻 I'm currently working on
+## 👩‍💻 Current Work
 
 - 🩺 Developing **machine learning applications for biomedical engineering**, including monitoring systems with **ESP32/Arduino** and **medical image analysis**.
 - 🌍 Educational tools and biomedical monitoring systems, built with multidisciplinary teams.
 - 🕵️ **SospechAI** — a multiplayer conversational game where players must figure out which participant is a language model. Built with a team of 4 and shipped through a **CI/CD pipeline**.
 - 🤖 **Local AI stack ("Jarvis Local")** — self-hosted LLM tooling running on Linux.
 
-## 🧠 I'm currently learning
+## 📚 Learning Now
 
 - 🐍 Implementing **web servers with Django** and developing **databases in SQL**.
 - 🎨 Designing **accessible and functional web interfaces** using HTML and CSS.
@@ -137,7 +140,6 @@ Beyond research, I design **university-level AI course content** for Colombian h
 <summary><b>💻 Languages, Web & Mobile</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -195,13 +197,10 @@ Beyond research, I design **university-level AI course content** for Colombian h
 </details>
 
 <details>
-<summary><b>🧩 Ways of Working</b> — click to expand</summary>
+<summary><b>🧩 Ways of Working</b></summary>
 <br>
 
 - 📝 **Academic reporting and professional documentation**
-- 🔍 **Research and troubleshooting of technical issues** — library installation, debugging, API integration
-- 🤝 **Multidisciplinary team collaboration**
-- 📈 **Continuous learning and adaptation to emerging technologies**
 - 🧪 **Experimentation workflows** with JupyterLab and notebooks
 - 🗂️ **Project management** with Trello, Notion and Google Drive
 
