@@ -14,7 +14,7 @@
 
 ## 🧬 About Me
 
-**Biomedical Engineer** and **Specialist in Artificial Intelligence** (postgraduate degree). I work where healthcare, education and machine learning overlap — building models that clinicians and students can actually understand, and the hardware and interfaces that put them to use.
+**Biomedical Engineer** and **Specialist in Artificial Intelligence** (postgraduate degree). My work sits at the intersection of healthcare, education, and machine learning — building models clinicians and students can understand, and the hardware that runs them.
 
 ```python
 class JuanMelendez:
@@ -54,7 +54,7 @@ Beyond research, I design **university-level AI course content** for Colombian h
 
 ## 🚀 Current Projects
 
-- 🕵️ **SospechAI** — a multiplayer conversational game where players must figure out which participant is actually a language model. Built with a team of 4 and deployed through a **CI/CD pipeline**.
+- 🕵️ **SospechAI** — a multiplayer conversational game where players must figure out which participant is a language model. Built with a team of 4 and deployed through a **CI/CD pipeline**.
 - 🩺 **Biomedical ML applications** — monitoring systems with **ESP32/Arduino** + medical image analysis
 - 🤖 **Local AI stack ("Jarvis Local")** — self-hosted LLM tooling running on Linux
 
