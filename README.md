@@ -18,9 +18,9 @@
 
 ## 🧬 About Me
 
-**Biomedical engineer** (postgraduate degree: *Especialista en Inteligencia Artificial*), working at the intersection of **healthcare** and **education**.
+**Biomedical engineer** · *Especialista en Inteligencia Artificial*.
 
-I work with **machine learning, predictive modeling, and medical image analysis** — and I build the hardware (ESP32/Arduino) and mobile apps to deploy it.
+Turning EEG signals into interpretable models · building health hardware with ESP32 · teaching AI in Colombia.
 
 ```python
 class JuanMelendez:
