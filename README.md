@@ -16,9 +16,9 @@
 
 ## 🧬 About Me
 
-I am a **biomedical engineering professional specializing in Artificial Intelligence** (postgraduate degree: *Especialista en Inteligencia Artificial*), with proven experience developing innovative solutions for **healthcare** and **education**.
+**Biomedical engineer** (postgraduate degree: *Especialista en Inteligencia Artificial*), working at the intersection of **healthcare** and **education**.
 
-My expertise includes **machine learning, predictive modeling, medical image analysis**, and the integration of **embedded systems (ESP32/Arduino)** with smart mobile applications — plus the infrastructure needed to actually run and deploy all of it.
+I work with **machine learning, predictive modeling, and medical image analysis** — and I build the hardware (ESP32/Arduino) and mobile apps to deploy it.
 
 ```python
 class JuanMelendez:
@@ -79,8 +79,8 @@ I **lead a research group on Explainable Artificial Intelligence**, focused on m
 ## 👩‍💻 I'm currently working on
 
 - 🩺 Developing **machine learning applications for biomedical engineering**, including monitoring systems with **ESP32/Arduino** and **medical image analysis**.
-- 🌍 Projects aimed at **improving educational and healthcare processes** through innovative technological solutions, collaborating with **multidisciplinary teams**.
-- 🕵️ **SospechAI** — a multiplayer conversational game where players must figure out which participant is actually a language model. Built with a team of 4 and shipped through a **CI/CD pipeline**.
+- 🌍 Educational tools and biomedical monitoring systems, built with multidisciplinary teams.
+- 🕵️ **SospechAI** — a multiplayer conversational game where players must figure out which participant is a language model. Built with a team of 4 and shipped through a **CI/CD pipeline**.
 - 🤖 **Local AI stack ("Jarvis Local")** — self-hosted LLM tooling running on Linux.
 
 ## 🧠 I'm currently learning
